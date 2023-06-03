@@ -1,2 +1,2 @@
-server:
-  port: 8181 in master
+application.connectionTimeoutMillis=6000
+application.readTimeoutMillis=8000
