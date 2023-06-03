@@ -1,6 +1,3 @@
-application.connectionTimeoutMillis=6000
-application.readTimeoutMillis=8000
-
 eureka:
   instance:
     prefer-ip-address: true
