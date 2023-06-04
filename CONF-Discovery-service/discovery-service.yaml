@@ -1,6 +1,5 @@
-# you are in master
 server:
-  port: 8761
+  port: 8761  # you are in master
 
 eureka:
   instance:
