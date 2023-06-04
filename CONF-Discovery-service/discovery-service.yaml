@@ -1,4 +1,4 @@
-name: # you are in master
+name: you are in master
 server:
   port: 8761  # you are in master
 
